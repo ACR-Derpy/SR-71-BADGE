@@ -265,7 +265,7 @@ A power cycle resets the NFC controller but does not remove saved card unlocks o
 - Avoid liquid, excessive heat, and direct impact.
 - Do not place the badge against exposed metal while powered.
 - Disconnect power before attaching, removing, or inspecting hardware connections.
-- We support modding the bagde, and the firmware will be released when the conference ends. However, the user assumes responsibility for a bricked badge and we cannot provide replacements. 
+- We support modding the badge, and the firmware will be released when the conference ends. However, the user assumes responsibility for a bricked badge and we cannot provide replacements. 
 
 ## Support
 
