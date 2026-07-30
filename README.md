@@ -218,7 +218,7 @@ Curiosity is encouraged. The badge contains one interface surprise, but finding 
 
 ### The Screen Is Darker Than It Should Be
 
-- As the battery drains the screen backlight will have a dropoff in brightness. Charging the battery will fix this. The 100% setting adjusts based on battery level. 
+- As the battery drains the screen backlight will have a dropoff in brightness. Charging the battery will fix this. The brightness setting adjusts based on battery level. 
 
 ### The Screen Is Dark/Black
 
