@@ -190,7 +190,7 @@ The inactivity timeout can be adjusted from 5 seconds to 1 minute. Touch the scr
 
 ## Hidden Features
 
-Curiosity is encouraged. The badge contains at least one interface surprise, but finding it is part of the fun.
+Curiosity is encouraged. The badge contains one interface surprise, but finding it is part of the fun.
 
 ## Troubleshooting
 
@@ -216,11 +216,16 @@ Curiosity is encouraged. The badge contains at least one interface surprise, but
 - Hold the sticker steady until a result appears.
 - Only supported official ACR card stickers can unlock cards.
 
-### The Screen Is Dark
+### The Screen Is Darker Than It Was
+
+- As the battery drains the screen backlight will have a dropoff in brightness. Charging the battery will fix this. The 100% setting adjusts based on battery level. 
+
+### The Screen Is Dark/Black
 
 - Touch the screen in case the badge entered low-power mode.
 - Confirm the power switch on the underside of the right wing tip is on.
-- Connect USB-C power and check the charging indicators.
+- Confirm LEDs are on.
+- Connect USB-C power and check the charging indicators, in a very low power state the screen will be very dark or black. Sometimes during these very low battery modes there may be an OSError with hardware initialization. Charging the battery a bit more should fix this issue. 
 - If the badge still does not respond, bring it to the ACR booth.
 
 ### The Badge Needs a Reset or Firmware Recovery
