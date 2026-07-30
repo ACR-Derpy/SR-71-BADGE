@@ -216,7 +216,7 @@ Curiosity is encouraged. The badge contains one interface surprise, but finding 
 - Hold the sticker steady until a result appears.
 - Only supported official ACR card stickers can unlock cards.
 
-### The Screen Is Darker Than It Was
+### The Screen Is Darker Than It Should Be
 
 - As the battery drains the screen backlight will have a dropoff in brightness. Charging the battery will fix this. The 100% setting adjusts based on battery level. 
 
