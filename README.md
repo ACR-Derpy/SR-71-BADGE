@@ -11,6 +11,11 @@ Join us on <a href="https://discord.gg/sgUe73dNS8">discord</a><br><br>
 <img src="images/badgeSpoiler.gif" width="350" height="200" border="10"/>
 </p>
 
+<p align="center">
+<img src="Images/SR-71_PCB.png" width="350" height="200" border="10"/>
+</p>
+
+
 > Disclaimer
 >> [!NOTE]
 >> Everything about this badge was made using open-source and public information.
@@ -245,19 +250,19 @@ The unofficial team logo<br>
 <tr>
 <td>
 <p align="center">
-<img src="images/LM_logo_white.png" border="10"/>
+<img src="Images/LM_logo_white.png" border="10"/>
 </p>
 </td>
 
 
 <td>
 <p align="center">
-<img src="images/ACR_Logo_Full.png" border="10"/>
+<img src="Images/ACR_Logo_Full.png" border="10"/>
 </p>
 </td>
 <td>
 <p align="center">
-<img src="images/Derpy_Remastered.png" border="10"/>
+<img src="Images/Derpy_Remastered.png" border="10"/>
 </p>
 </td>
 </tr>
@@ -267,27 +272,27 @@ The unofficial team logo<br>
 Skunkworks Skunk<br>
 </td>
 <td width="33%">
-Defcon32 Theme slogan<br>
+DEF CON 34 Theme slogan<br>
 </td>
 <td width="33%">
-Darkstar Inspired Details<br>
+SR-71 Inspired Details<br>
 </td>
 </tr>
 
 <td>
 <p align="center">
-<img src="images/skunk.jpg" border="10"/>
+<img src="Images/skunk.jpg" border="10"/>
 </p>
 </td>
 <td>
 <p align="center">
-<img src="images/dc32-logo.webp"border="10"/>
+<img src="Images/dc-34-logo.png"border="10"/>
 </p>
 </td>
 
 <td>
 <p align="center">
-<img src="images/darkstar_orig.webp" border="10"/>
+<img src="Images/SR-71_PCB.png" border="10"/>
 </p>
 </td>
 </tr>
