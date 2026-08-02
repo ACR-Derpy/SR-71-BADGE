@@ -228,6 +228,73 @@ Curiosity is encouraged. The badge contains one interface surprise, but finding 
 - Connect USB-C power and check the charging indicators, in a very low power state the screen will be very dark or black. Sometimes during these very low battery modes there may be an OSError with hardware initialization. Charging the battery a bit more should fix this issue. 
 - If the badge still does not respond, bring it to the ACR booth.
 
+### LIVERY
+<table>
+<tr>
+<td width="33%">
+Lockheed logo<br>
+</td>
+<td width="33%">
+ACR Team logo<br>
+</td>
+<td width="33%">
+The unofficial team logo<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<p align="center">
+<img src="images/LM_logo_white.png" border="10"/>
+</p>
+</td>
+
+
+<td>
+<p align="center">
+<img src="images/ACR_Logo_Full.png" border="10"/>
+</p>
+</td>
+<td>
+<p align="center">
+<img src="images/Derpy_Remastered.png" border="10"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+Skunkworks Skunk<br>
+</td>
+<td width="33%">
+Defcon32 Theme slogan<br>
+</td>
+<td width="33%">
+Darkstar Inspired Details<br>
+</td>
+</tr>
+
+<td>
+<p align="center">
+<img src="images/skunk.jpg" border="10"/>
+</p>
+</td>
+<td>
+<p align="center">
+<img src="images/dc32-logo.webp"border="10"/>
+</p>
+</td>
+
+<td>
+<p align="center">
+<img src="images/darkstar_orig.webp" border="10"/>
+</p>
+</td>
+</tr>
+</table>
+
+-----
+
 ### The Badge Needs a Reset or Firmware Recovery
 
 Bring the badge to the ACR booth. Firmware for user reflashing will be released sometime after DEF CON.
