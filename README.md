@@ -88,7 +88,7 @@ The best NFC contact point is where the aircraft canopy ends. Keep the devices s
 - For an official ACR sticker, place the sticker against the badge at the canopy-end contact point.
 
 <p align="center">
-<img src="Images/test.png" width="350" height="200" border="10"/>
+<img src="Images/NFC_P2P.png" width="350" height="400" border="10"/>
 </p>
 
 ## NFC Operations
