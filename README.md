@@ -57,7 +57,7 @@ Reflashing and hardware or software modding are supported, but the badge firmwar
 
 ## Navigation
 
-The main menu shows your collection progress as **Cards Unlocked: _x_/39** and provides three sections:
+The main menu shows your collection progress as **Cards Unlocked: _x_/40** and provides three sections:
 
 - **Card Display**
 - **NFC Operations**
